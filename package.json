@@ -1,0 +1,23 @@
+{
+  "name": "node_advanced_concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexis-l8/node_advanced_concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexis-l8/node_advanced_concepts/issues"
+  },
+  "homepage": "https://github.com/alexis-l8/node_advanced_concepts#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
